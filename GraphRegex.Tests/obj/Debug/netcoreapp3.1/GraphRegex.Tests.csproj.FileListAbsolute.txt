@@ -1,0 +1,16 @@
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/bin/Debug/netcoreapp3.1/GraphRegex.Tests
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/bin/Debug/netcoreapp3.1/GraphRegex.Tests.deps.json
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/bin/Debug/netcoreapp3.1/GraphRegex.Tests.runtimeconfig.json
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/bin/Debug/netcoreapp3.1/GraphRegex.Tests.runtimeconfig.dev.json
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/bin/Debug/netcoreapp3.1/GraphRegex.Tests.dll
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/bin/Debug/netcoreapp3.1/GraphRegex.Tests.pdb
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/bin/Debug/netcoreapp3.1/nunitlite.dll
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/bin/Debug/netcoreapp3.1/GraphRegex.dll
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/bin/Debug/netcoreapp3.1/GraphRegex.pdb
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/obj/Debug/netcoreapp3.1/GraphRegex.Tests.csprojAssemblyReference.cache
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/obj/Debug/netcoreapp3.1/GraphRegex.Tests.AssemblyInfoInputs.cache
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/obj/Debug/netcoreapp3.1/GraphRegex.Tests.AssemblyInfo.cs
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/obj/Debug/netcoreapp3.1/GraphRegex.Tests.csproj.CopyComplete
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/obj/Debug/netcoreapp3.1/GraphRegex.Tests.dll
+/Users/williamsarland/Projects/GraphRegex/GraphRegex.Tests/obj/Debug/netcoreapp3.1/GraphRegex.Tests.pdb

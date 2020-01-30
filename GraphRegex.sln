@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphRegex", "GraphRegex\GraphRegex.csproj", "{B68646C2-CCE1-4468-B8E2-5AFAC37771E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphRegex.Tests", "GraphRegex.Tests\GraphRegex.Tests.csproj", "{D0553939-ADD0-4872-94CC-1B08E1B05AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B68646C2-CCE1-4468-B8E2-5AFAC37771E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68646C2-CCE1-4468-B8E2-5AFAC37771E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68646C2-CCE1-4468-B8E2-5AFAC37771E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68646C2-CCE1-4468-B8E2-5AFAC37771E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0553939-ADD0-4872-94CC-1B08E1B05AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0553939-ADD0-4872-94CC-1B08E1B05AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0553939-ADD0-4872-94CC-1B08E1B05AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0553939-ADD0-4872-94CC-1B08E1B05AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

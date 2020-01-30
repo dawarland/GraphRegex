@@ -1,0 +1,8 @@
+/Users/williamsarland/Projects/GraphRegex/GraphRegex/obj/Debug/netcoreapp3.1/GraphRegex.csprojAssemblyReference.cache
+/Users/williamsarland/Projects/GraphRegex/GraphRegex/obj/Debug/netcoreapp3.1/GraphRegex.AssemblyInfoInputs.cache
+/Users/williamsarland/Projects/GraphRegex/GraphRegex/obj/Debug/netcoreapp3.1/GraphRegex.AssemblyInfo.cs
+/Users/williamsarland/Projects/GraphRegex/GraphRegex/bin/Debug/netcoreapp3.1/GraphRegex.deps.json
+/Users/williamsarland/Projects/GraphRegex/GraphRegex/bin/Debug/netcoreapp3.1/GraphRegex.dll
+/Users/williamsarland/Projects/GraphRegex/GraphRegex/bin/Debug/netcoreapp3.1/GraphRegex.pdb
+/Users/williamsarland/Projects/GraphRegex/GraphRegex/obj/Debug/netcoreapp3.1/GraphRegex.dll
+/Users/williamsarland/Projects/GraphRegex/GraphRegex/obj/Debug/netcoreapp3.1/GraphRegex.pdb

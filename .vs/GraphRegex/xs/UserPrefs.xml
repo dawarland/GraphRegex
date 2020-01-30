@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D0553939-ADD0-4872-94CC-1B08E1B05AB8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GraphRegex.Tests/RegexTests.cs">
+    <Files>
+      <File FileName="GraphRegex.Tests/Program.cs" Line="11" Column="10" />
+      <File FileName="GraphRegex/Automate.cs" Line="47" Column="1" />
+      <File FileName="GraphRegex.Tests/AutomateTests.cs" Line="19" Column="45" />
+      <File FileName="GraphRegex.Tests/RegexTests.cs" Line="28" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GraphRegex" expanded="True">
+            <Node name="GraphRegex" expanded="True" />
+            <Node name="GraphRegex.Tests" expanded="True">
+              <Node name="RegexTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GraphRegex.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
